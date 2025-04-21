@@ -21,7 +21,7 @@ You will be building a basic task list application with the following features:
 * **Marking as Complete:** Provide a way for users to toggle the completion status of each task. Visually indicate the completion status.
 * **Deleting Tasks:** Enable users to remove tasks from the list.
 
-**Optional Features**
+**Optional Features:**
 
 * **Local Storage Persistence:**
     * Automatically save and load the task list in the user's browser.
